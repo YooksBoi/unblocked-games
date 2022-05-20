@@ -4,19 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <!DOCTYPE html>
-<html>
-    <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9341297772341434"
-     crossorigin="anonymous"></script>
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="style.css">
-        <link rel="shortcut icon" href="Pictures/icon.png">
-        <title>Yook's Scripts</title>
-        
-    </head>
-    <body>
-        
+
         <section class="header">
             <nav>
                 <img src="Pictures/icon.png">
@@ -179,7 +167,6 @@ export default function Home() {
         <img class="img"src="Pictures/TRIA.png">
         </div>
         </section>
-    </body>
-</html>
+
   )
 }
